@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @date 2020/10/2
  */
 @RestController
-public class HelloController {
+public class HelloWorldController {
 
 	@RequestMapping("/hello")
 	public String hello() {
