@@ -1,0 +1,6 @@
+server:
+  port: 8379
+
+spring:
+  application:
+    name: hello
